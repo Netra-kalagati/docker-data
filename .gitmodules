@@ -1,0 +1,3 @@
+[submodule "docker-data"]
+	path = docker-data
+	url = https://github.com/Netra-kalagati/docker-data.git
